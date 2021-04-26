@@ -6,6 +6,5 @@
 | Obiekt       | Rodzaj        | Adres              | Dzielnica | Cena | Link            |
 |--------------+---------------+--------------------+-----------+------+-----------------|
 | Duże Obiekto | Boulder       | Mińska 65          | Praga     |   30 | [[http://obiekto.pl][obiekto.pl]]      |
-| Małe Obiekto | Boulder       | Grochowska 301/305 | Praga     |   30 | [[http://obiekto.pl][obiekto.pl]]      |
 | Crux         | Boulder       | Hoża 51            | Centrum   |   25 | [[http://www.crux.boulder.pl][crux.boulder.pl]] |
 | W Górę       | Lina (+dachy) | Merliniego 2       | Mokotów   |   32 | [[http://www.wgore.eu][wgore.eu]]        |
