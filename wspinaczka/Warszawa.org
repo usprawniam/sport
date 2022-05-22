@@ -3,8 +3,12 @@
 #+LATEX_HEADER: \usepackage[AUTO]{babel}
 
 * Porównanie
-| Obiekt  | Rodzaj                      | Adres        | Dzielnica | Cena | Link            |
-|---------+-----------------------------+--------------+-----------+------+-----------------|
-| Obiekto | Boulder                     | Mińska 65    | Praga     |   30 | [[http://obiekto.pl][obiekto.pl]]      |
-| Crux    | Boulder                     | Hoża 51      | Centrum   |   25 | [[http://www.crux.boulder.pl][crux.boulder.pl]] |
-| W Górę  | Lina (+przewieszenia/dachy) | Merliniego 2 | Mokotów   |   32 | [[http://www.wgore.eu][wgore.eu]]        |
+** Boulder
+| Obiekt  | Adres     | Dzielnica | Cena | Link            |
+|---------+-----------+-----------+------+-----------------|
+| Obiekto | Mińska 65 | Praga     |   30 | [[http://obiekto.pl][obiekto.pl]]      |
+| Crux    | Hoża 51   | Centrum   |   25 | [[http://www.crux.boulder.pl][crux.boulder.pl]] |
+** Lina
+| Obiekt | Automaty | Dodatki             | Adres        | Dzielnica | Cena | Link     |
+|--------+----------+---------------------+--------------+-----------+------+----------|
+| W Górę |        3 | Przewieszenia/dachy | Merliniego 2 | Mokotów   |   32 | [[http://www.wgore.eu][wgore.eu]] |
