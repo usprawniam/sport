@@ -6,8 +6,8 @@
 ** Boulder
 | Obiekt  | Adres     | Dzielnica | Cena | Link            |
 |---------+-----------+-----------+------+-----------------|
-| Obiekto | Mińska 65 | Praga     |   30 | [[http://obiekto.pl][obiekto.pl]]      |
-| Crux    | Hoża 51   | Centrum   |   25 | [[http://www.crux.boulder.pl][crux.boulder.pl]] |
+| Obiekto | Mińska 65 | Praga     |   35 | [[http://obiekto.pl][obiekto.pl]]      |
+| Crux    | Hoża 51   | Centrum   |   36 | [[http://www.crux.boulder.pl][crux.boulder.pl]] |
 ** Lina
 | Obiekt | Automaty | Dodatki             | Adres        | Dzielnica | Cena | Link     |
 |--------+----------+---------------------+--------------+-----------+------+----------|
