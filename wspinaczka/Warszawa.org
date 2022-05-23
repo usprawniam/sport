@@ -4,11 +4,25 @@
 
 * Porównanie
 ** Boulder
-| Obiekt  | Adres     | Dzielnica | Cena | Link            |
-|---------+-----------+-----------+------+-----------------|
-| Obiekto | Mińska 65 | Praga     |   35 | [[http://obiekto.pl][obiekto.pl]]      |
-| Crux    | Hoża 51   | Centrum   |   36 | [[http://www.crux.boulder.pl][crux.boulder.pl]] |
+| Obiekt           | Adres        | Dzielnica       | Cena | Link                |
+|------------------+--------------+-----------------+------+---------------------|
+| Obiekto          | Mińska 65    | Praga           |   35 | [[http://obiekto.pl][obiekto.pl]]          |
+| Crux             | Hoża 51      | Centrum         |   36 | [[http://www.crux.boulder.pl][crux.boulder.pl]]     |
+| Murall Krakowska | Krakowska 61 | Włochy          |   36 | [[https://krakowska.murall.pl][krakowska.murall.pl]] |
+| VOLT             | Zawodzie 16  | Mokotów/Wilanów |   33 | [[http://www.voltboulderownia.pl][voltboulderownia.pl]] |
+| Bulder Bar       | Dereniowa 6  | Ursynów         |   24 | [[http://www.bulderbar.pl][bulderbar.pl]]        |
 ** Lina
-| Obiekt | Automaty | Dodatki             | Adres        | Dzielnica | Cena | Link     |
-|--------+----------+---------------------+--------------+-----------+------+----------|
-| W Górę |        3 | Przewieszenia/dachy | Merliniego 2 | Mokotów   |   32 | [[http://www.wgore.eu][wgore.eu]] |
+| Obiekt            | Automaty  | Dodatki               | Adres                 | Dzielnica      | Cena | Link                |
+|-------------------+-----------+-----------------------+-----------------------+----------------+------+---------------------|
+| W Górę            | 3         | Przewieszenia/dachy   | Merliniego 2          | Mokotów        |   32 | [[http://www.wgore.eu][wgore.eu]]            |
+| Murall Annopol    | ~wszędzie | Boulder, siłownia     | Annopol 3             | Białołęka      |   36 | [[https://annopol.murall.pl][annopol.murall.pl]]   |
+| On Sight          | brak      | ?                     | Obozowa 60            | Wola           |   30 | [[http://www.obozowa.waw.pl][obozowa.waw.pl]]      |
+| W Pionie          | brak      | ?                     | Nowowiejska 37B       | Centrum/Ochota |   30 | [[http://wpionie.pl][wpionie.pl]]          |
+| Camp4             | ?         | Boulder (+zewnętrzny) | Krasnowolska 50       | Ursynów        |   35 | [[https://halawspinaczkowa.pl][halawspinaczkowa.pl]] |
+| Makak             | ?         | ?                     | Palisadowa 20/22      | Bielany        |   35 | [[https://arenamakak.pl][arenamakak.pl]]       |
+| Stacja Grawitacja | ?         | ?                     | Bohaterów Września 12 | Ochota         |   35 | [[https://www.stacjagrawitacja.pl][stacjagrawitacja.pl]] |
+** Na powietrzu
+| Obiekt            | Rodzaj  | Adres              | Dzielnica | Cena | Link           |
+|-------------------+---------+--------------------+-----------+------+----------------|
+| CSR WUM           | Lina    | Trojdena 2C        | Ochota    | 30   | [[http://csr.wum.edu.pl/pl/strefa-klienta/scianka-wspinaczkowa][csr.wum.edu.pl]] |
+| Ścianka nad Wisłą | Boulder | Most Świętokrzyski | Praga     | -    | -              |
