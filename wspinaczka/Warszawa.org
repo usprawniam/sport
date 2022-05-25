@@ -44,3 +44,14 @@ Offpeak: pon-pt do 15 (On Sight do 15:30, Camp4 do 15 i po 21)
 | Camp4             | rezerwacja              |      60 | bez wejścia                   |
 | Makak             | rezerwacja telefoniczna |      59 | bez wejścia, sprzęt w cenie   |
 | Stacja Grawitacja | rezerwacja?             |      50 | bez wejścia                   |
+* Wypożyczenie sprzętu
+| Obiekt            | Uprząż | Przyrząd | Lina |
+|-------------------+--------+----------+------|
+| W Górę            |      0 |        0 |    5 |
+| Murall Annopol    |     10 |        3 |    7 |
+| On Sight          |      2 |        1 |    5 |
+| W Pionie          |      5 |        2 |   10 |
+| Camp4             |     10 |        5 |   10 |
+| Makak             |      6 |        3 |   10 |
+| Stacja Grawitacja |      5 |        7 |    7 |
+| CSR WUM           |      ? |        ? |    ? |
