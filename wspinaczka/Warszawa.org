@@ -30,3 +30,17 @@ Offpeak: pon-pt do 15 (On Sight do 15:30, Camp4 do 15 i po 21)
 |-------------------+---------+--------------------+-----------+------+----------------|
 | CSR WUM           | Lina    | Trojdena 2C        | Ochota    | 30   | [[http://csr.wum.edu.pl/pl/strefa-klienta/scianka-wspinaczkowa][csr.wum.edu.pl]] |
 | Ścianka nad Wisłą | Boulder | Most Świętokrzyski | Praga     | -    | -              |
+* Zajęcia wstępne
+| Obiekt            | Termin                  |    Cena | Szczegóły                     |
+|-------------------+-------------------------+---------+-------------------------------|
+| Obiekto           | sobota 12:00            | wejście | -                             |
+| Crux              | piątek 18:00            | wejście | rezerwacja @FB                |
+| Murall Krakowska  | rezerwacja              |      59 | wejście w cenie               |
+| VOLT              | piątek 19:00            | wejście | -                             |
+| W Górę            | rezerwacja?             |      30 | ?                             |
+| Murall Annopol    | rezerwacja              |      59 | wejście i sprzęt w cenie      |
+| On Sight          | rezerwacja?             |      30 | ?                             |
+| W Pionie          | rezerwacja?             |      50 | bez wejścia, płatność gotówką |
+| Camp4             | rezerwacja              |      60 | bez wejścia                   |
+| Makak             | rezerwacja telefoniczna |      59 | bez wejścia, sprzęt w cenie   |
+| Stacja Grawitacja | rezerwacja?             |      50 | bez wejścia                   |
