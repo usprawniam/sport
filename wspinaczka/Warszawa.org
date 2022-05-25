@@ -71,3 +71,10 @@ Offpeak: pon-pt do 15 (On Sight do 15:30, Camp4 do 15 i po 21)
 | Makak             |              10 | 10                 |                 10 |        10 |
 | Stacja Grawitacja |              15 | ?                  |                 20 |        20 |
 | CSR WUM           |               0 | ?                  |                  - |         - |
+* Do sprawdzenia
+- OSIR Koło
+- OSIR Siennicka
+- Patrzykont
+- Sali rocks
+- Ścianka wspinaczkowa Banacha
+- Ściana południowa
