@@ -55,3 +55,19 @@ Offpeak: pon-pt do 15 (On Sight do 15:30, Camp4 do 15 i po 21)
 | Makak             |      6 |        3 |   10 |
 | Stacja Grawitacja |      5 |        7 |    7 |
 | CSR WUM           |      ? |        ? |    ? |
+* Karty sportowe
+| Obiekt            | Multisport Plus | Multisport Classic |          Medicover | FitProfit |
+|-------------------+-----------------+--------------------+--------------------+-----------|
+| Obiekto           |               5 | -                  |                  0 |         0 |
+| Crux              |               9 | -                  |                  0 |         0 |
+| Murall Krakowska  |              15 | 15                 |                 15 |         - |
+| VOLT              |               0 | ?                  |                  5 |         0 |
+| Bulder Bar        |               0 | -                  |                  0 |         0 |
+| W Górę            |               5 | -                  |                  0 |         - |
+| Murall Annopol    |              15 | 15                 |                 15 |         - |
+| On Sight          |              10 | ?                  |                 10 |        10 |
+| W Pionie          |              10 | ?                  |                  0 |         0 |
+| Camp4             |              15 | -                  | 10 poza offpeakiem |         0 |
+| Makak             |              10 | 10                 |                 10 |        10 |
+| Stacja Grawitacja |              15 | ?                  |                 20 |        20 |
+| CSR WUM           |               0 | ?                  |                  - |         - |
